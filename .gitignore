@@ -1,0 +1,9 @@
+intermediates/
+runs/
+working data/
+bounding boxes/
+modified boxes/
+final_dataset/
+__pycache__/
+.ipynb_checkpoints/
+intermediates
