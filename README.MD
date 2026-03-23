@@ -1,5 +1,5 @@
 
-This is my submission for GSoC HumanAI foundation.
+This is my submission for GSoC HumanAI foundation Proposal Screening Task.
 # Run Inference
 To run the pipeline, insert your images in `inference\images` folder. Then, in the project root, run
 ```
